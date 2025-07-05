@@ -1,0 +1,6 @@
+[submodule "floranodus-monorepo"]
+	path = floranodus-monorepo
+	url = https://github.com/trevoralexanderrobey/floranodus-monorepo.git
+[submodule "FloraFauna-ai"]
+	path = FloraFauna-ai
+	url = https://github.com/trevoralexanderrobey/FloraFauna-ai.git
